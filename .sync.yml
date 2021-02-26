@@ -36,3 +36,7 @@ Rakefile:
   unmanaged: false
 .gitpod.yml:
   unmanaged: false
+spec/spec_helper.rb:
+  mock_with: ':rspec'
+.github/workflows/auto_release.yml:
+  unmanaged: false
